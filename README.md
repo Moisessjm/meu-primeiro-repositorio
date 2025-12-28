@@ -2,6 +2,5 @@
 Meu primeiro repositório para testar meus conhecimentos
 # Meu primeiro commit   
 
-# git commit -m "moisessjm1@gmail.com"
-
+ moisessjm1@gmail.com
 
